@@ -1,6 +1,6 @@
 # SQL_DATA_ANALYSIS
 
-**In this Analysis my main focus is on SQL Data Exploration.**
+**Part-1 In this Analysis my main focus is on SQL Data Exploration.**
 
 I am using SQL to do some Data Exploration and then visualize the data in Tableau in the next part.
 
@@ -15,3 +15,6 @@ called **covidDeaths.xlsx** and **covidVaccinations.xlsx** with limited feature.
 
 I am using Azure SQL database (Cloud) and then connecting with SQL Server Management Studio using server authentication so it will link my Azure SQL DATABASE.
 Also, for importing data I am using SQL Server Import and Export Wizard it will take time based on the size of the data, but it will work.
+
+**Part-2 Data visualization.**
+visualization link : https://public.tableau.com/app/profile/dhruven.prajapati

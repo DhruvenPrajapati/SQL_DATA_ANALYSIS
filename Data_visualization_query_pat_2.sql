@@ -34,3 +34,6 @@ Select location, population,date, MAX(total_cases) as HighestInfectionCount,  Ma
 From CovidDataAnalysis..covidDeaths
 Group by location, population, date
 order by PercentPopulationInfected desc
+
+
+/*visualization link : https://public.tableau.com/views/Coviddashboard_16949979330090/CovidDashboard?:language=en-US&:display_count=n&:origin=viz_share_link*/
